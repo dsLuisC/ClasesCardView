@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clases</string>
+    <string name="textoBoton">Cargar datos</string>
+    <string name="textoNombres">Nombres</string>
+    <string name="textoApellidos">Apellidos</string>
+    <string name="textoEdad">Edad</string>
+    <string name="textoTelefono">Telefono</string>
+    <string name="texto_mg">Me gusta</string>
+</resources>
